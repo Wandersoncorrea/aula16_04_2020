@@ -1,0 +1,7 @@
+C:\Users\wanderson\OneDrive\Área de Trabalho\aula16_04_2020\obj\Debug\net5.0\aula16_04_2020.csprojAssemblyReference.cache
+C:\Users\wanderson\OneDrive\Área de Trabalho\aula16_04_2020\obj\Debug\net5.0\aula16_04_2020.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wanderson\OneDrive\Área de Trabalho\aula16_04_2020\obj\Debug\net5.0\aula16_04_2020.AssemblyInfoInputs.cache
+C:\Users\wanderson\OneDrive\Área de Trabalho\aula16_04_2020\obj\Debug\net5.0\aula16_04_2020.AssemblyInfo.cs
+C:\Users\wanderson\OneDrive\Área de Trabalho\aula16_04_2020\obj\Debug\net5.0\aula16_04_2020.csproj.CoreCompileInputs.cache
+C:\Users\wanderson\OneDrive\Área de Trabalho\aula16_04_2020\obj\Debug\net5.0\aula16_04_2020.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wanderson\OneDrive\Área de Trabalho\aula16_04_2020\obj\Debug\net5.0\aula16_04_2020.MvcApplicationPartsAssemblyInfo.cache
